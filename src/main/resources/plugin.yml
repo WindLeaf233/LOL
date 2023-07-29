@@ -1,0 +1,6 @@
+name: LOL
+version: '${version}'
+main: owo.foliage.lol.LOL
+api-version: '1.19'
+authors: [FoliageOwO]
+description: A simple plugin that fools everyone. :)
